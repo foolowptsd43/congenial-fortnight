@@ -5749,3 +5749,90 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24May2025 16:56:36.338] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
 [24May2025 17:16:50.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [24May2025 17:16:51.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[24May2025 17:38:54.749] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=43}
+[24May2025 17:38:54.750] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=-58, z=45}
+[24May2025 17:38:54.750] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=41, y=-58, z=48}
+[24May2025 17:38:54.751] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=-58, z=49}
+[24May2025 17:38:54.751] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=34, y=-58, z=50}
+[24May2025 17:38:54.752] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-58, z=41}
+[24May2025 17:39:49.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.171.249.231:57435] logged in with entity id 97066 at (-1895.3254610371982, 63.0, 1999.4971316989418)
+[24May2025 17:39:49.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
+[24May2025 17:40:04.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> hermano
+[24May2025 17:40:08.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> 20 mandados
+[24May2025 17:40:14.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> muchacho soy god
+[24May2025 17:40:17.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> espera termino clase y te llamo
+[24May2025 17:40:21.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> que isiste?
+[24May2025 17:40:39.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Hanging Tree]
+[24May2025 17:41:26.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> ontas
+[24May2025 17:42:01.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [A Fool's Folly]
+[24May2025 17:42:20.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> bueno la wachafita con los logros
+[24May2025 17:42:23.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> donde estasss
+[24May2025 17:42:39.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was swarmed by Apothecarist
+[24May2025 17:42:57.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> bueno
+[24May2025 17:43:04.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> uis...
+[24May2025 17:43:12.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> -710/87/3300
+[24May2025 17:43:19.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> ahi me mori
+[24May2025 17:43:23.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> voy
+[24May2025 17:43:35.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> Serna tp
+[24May2025 17:43:56.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> te quedaba 1?
+[24May2025 17:44:06.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> un que?
+[24May2025 17:44:16.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> un tp porq yo me acuerdo q te di uno
+[24May2025 17:44:39.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Iron, but dark]
+[24May2025 17:44:53.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> donde estas?
+[24May2025 17:45:00.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> en la isla
+[24May2025 17:46:08.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> pero te tpo a tus cosas o q
+[24May2025 17:46:19.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> pues yo me fui a los andes
+[24May2025 17:46:41.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> pero es el ultimo tuyo
+[24May2025 17:46:47.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> si creo que el tipo ya se debio de olvidar de mi
+[24May2025 17:46:52.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> dale
+[24May2025 17:47:05.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Timed out
+[24May2025 17:47:05.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[24May2025 17:47:22.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Aqui_Si_Ban to -709.500000, 87.000000, 3300.500000
+[24May2025 17:47:53.298] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2be7aea2[id=<null>,name=blackdesfail,properties={},legacy=false] (/127.195.151.45:41457) lost connection: Disconnected
+[24May2025 17:48:03.910] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:37477] logged in with entity id 99985 at (-1837.300000011921, 305.0, 1983.6970330224003)
+[24May2025 17:48:03.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
+[24May2025 17:48:24.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> gracias dios
+[24May2025 17:48:30.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> jkjkjkjkjk
+[24May2025 17:48:56.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Tools of the Trade]
+[24May2025 17:49:04.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> jkjk
+[24May2025 17:49:21.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> curacion III eso siquiera existe
+[24May2025 17:49:43.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> pues con el irons al parecer ci
+[24May2025 17:49:56.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> me toca meterme con ese moc
+[24May2025 17:49:57.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has reached the goal [Quaint Scribe]
+[24May2025 17:51:53.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> vas a venir y te espero o que vas a hacer?
+[24May2025 17:52:01.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> voy para aya
+[24May2025 17:54:18.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> CARRREEEEE
+[24May2025 17:54:21.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> UN JEFEEEEEE
+[24May2025 17:54:24.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> AAAAAAAAAAAAAA
+[24May2025 17:54:28.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> como?
+[24May2025 17:54:32.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> ayuda estoy atrapado
+[24May2025 17:54:39.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> -600 2400
+[24May2025 17:54:44.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> cords
+[24May2025 17:54:48.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> 30levels
+[24May2025 17:54:55.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> voy
+[24May2025 17:55:54.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> carreeeeeee
+[24May2025 17:56:20.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> resiste
+[24May2025 17:57:23.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> me mata
+[24May2025 17:57:37.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> 400 bloques
+[24May2025 17:58:54.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> me cogela
+[24May2025 17:59:05.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> ya llegue donde estas
+[24May2025 17:59:12.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> en una rabin
+[24May2025 17:59:20.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> tengo 2 chuletas
+[24May2025 17:59:47.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> esta bajo de vida pero no tengo comida
+[24May2025 18:00:11.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> -608 58 2437
+[24May2025 18:00:35.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> voy bajando
+[24May2025 18:01:21.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> un mago me esta matando
+[24May2025 18:02:24.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> donde estas
+[24May2025 18:03:39.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> hola muchacho
+[24May2025 18:03:45.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> estas bien
+[24May2025 18:03:46.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> hola wachito
+[24May2025 18:03:57.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> espera que me llaman JTUSTO AHORa
+[24May2025 18:04:02.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> ok
+[24May2025 18:04:02.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> me cahgo en dios
+[24May2025 18:05:09.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> voli
+[24May2025 18:05:16.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> vamos
+[24May2025 18:05:24.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> y que paso con el jefe?
+[24May2025 18:05:26.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> estoy vusando un cabron para partirle su madre
+[24May2025 18:05:34.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> no lo follamos
+[24May2025 18:06:10.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> VAMOSSSSSSSS
+[24May2025 18:06:19.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> AAAAAAA
