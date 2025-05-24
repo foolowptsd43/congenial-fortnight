@@ -5482,3 +5482,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24May2025 13:22:47.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
 [24May2025 13:24:50.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
 [24May2025 13:26:36.147] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 8 in "main" inventory handler
+[24May2025 13:46:41.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Pickaxe Heater] to blackdesfail
+[24May2025 13:47:19.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24May2025 13:47:19.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: save all<--[HERE]
+[24May2025 13:47:29.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[24May2025 13:47:30.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[24May2025 13:50:26.838] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/10089, l='ServerLevel[madafaka]', x=2165.50, y=52.00, z=3366.50]
