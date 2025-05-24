@@ -117,6 +117,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-05-18 23:38:42 +0000",
       "minecraft:flower_forest": "2025-05-23 02:50:45 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-18 23:40:11 +0000",
+      "minecraft:deep_dark": "2025-05-24 20:48:17 +0000",
       "minecraft:meadow": "2025-05-21 19:49:41 +0000",
       "minecraft:windswept_gravelly_hills": "2025-05-19 00:39:24 +0000",
       "minecraft:savanna": "2025-05-18 23:53:17 +0000",
@@ -277,6 +278,7 @@
       "pasture": "2025-05-19 12:19:21 +0000",
       "volcanic_plains": "2025-05-18 23:18:16 +0000",
       "lavender_field": "2025-05-18 23:57:59 +0000",
+      "fir_clearing": "2025-05-24 22:42:57 +0000",
       "pumpkin_patch": "2025-05-23 20:44:50 +0000",
       "grassland": "2025-05-18 23:31:37 +0000",
       "prairie": "2025-05-21 20:12:28 +0000",
@@ -7013,6 +7015,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-05-24 18:36:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2025-05-24 18:47:18 +0000"
@@ -7022,12 +7030,6 @@
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_orange_wool": "2025-05-24 18:47:18 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-05-24 18:52:35 +0000"
     },
     "done": true
   },
@@ -7049,17 +7051,318 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-05-24 18:52:35 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2025-05-24 18:53:05 +0000"
     },
     "done": true
   },
-  "deeperdarker:main/kill_all_sculk_mobs": {
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_button_from_mahogany_planks_woodcutting": {
     "criteria": {
-      "phantom": "2025-05-24 18:36:16 +0000"
+      "give_recipe": "2025-05-24 19:18:42 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/barrel_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_fence_gate_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_boat_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_boat_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_layered_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/crafting_table_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_planks_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_trapdoor_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_chest_boat_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_stairs_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_fence_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_connected_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_button_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_door_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_door_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_pressure_plate_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_pressure_plate_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_trapdoor_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_slab_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_sign_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_sign_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_chest_boat_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_fence_gate_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_fence_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_slab_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_pillar_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_chest_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_stairs_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-24 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-24 19:20:01 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
+    "criteria": {
+      "requirement": "2025-05-24 19:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2025-05-24 20:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper": {
+    "criteria": {
+      "has_weathered_copper": "2025-05-24 20:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2025-05-24 20:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_copper_from_honeycomb": {
+    "criteria": {
+      "has_weathered_copper": "2025-05-24 20:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2025-05-24 20:30:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-24 20:40:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-24 20:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-24 20:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-24 20:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-24 20:40:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-05-24 20:48:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_forging": {
+    "criteria": {
+      "dark_forging_0": "2025-05-24 21:36:08 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:compact_necromancy": {
+    "criteria": {
+      "compact_necromancy_0": "2025-05-24 21:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-05-24 22:44:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2025-05-24 22:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-05-24 22:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-05-24 22:20:49 +0000",
+      "ocean_ruin_cold": "2025-05-24 22:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-24 22:00:19 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

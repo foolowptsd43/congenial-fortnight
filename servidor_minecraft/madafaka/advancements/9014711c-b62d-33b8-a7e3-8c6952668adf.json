@@ -89,10 +89,12 @@
       "minecraft:lukewarm_ocean": "2025-05-18 21:27:32 +0000",
       "minecraft:stony_shore": "2025-05-18 19:48:57 +0000",
       "minecraft:snowy_taiga": "2025-05-24 17:08:54 +0000",
+      "minecraft:dripstone_caves": "2025-05-24 21:38:53 +0000",
       "minecraft:grove": "2025-05-24 17:05:46 +0000",
       "minecraft:jagged_peaks": "2025-05-24 17:00:40 +0000",
       "minecraft:cold_ocean": "2025-05-24 16:33:09 +0000",
       "minecraft:forest": "2025-05-18 22:25:53 +0000",
+      "minecraft:lush_caves": "2025-05-24 20:40:48 +0000",
       "minecraft:deep_cold_ocean": "2025-05-24 16:08:44 +0000",
       "minecraft:frozen_ocean": "2025-05-24 18:44:38 +0000",
       "minecraft:desert": "2025-05-21 20:26:55 +0000",
@@ -140,6 +142,7 @@
       "grassland": "2025-05-18 21:23:16 +0000",
       "prairie": "2025-05-21 20:12:28 +0000",
       "snowy_fir_clearing": "2025-05-24 17:05:30 +0000",
+      "glowing_grotto": "2025-05-24 20:40:51 +0000",
       "origin_valley": "2025-05-23 04:37:23 +0000",
       "rainforest": "2025-05-18 20:40:48 +0000",
       "crag": "2025-05-24 16:40:54 +0000"
@@ -580,6 +583,7 @@
       "golden_apple": "2025-05-22 01:54:49 +0000",
       "suspicious_stew": "2025-05-22 02:09:57 +0000",
       "melon_slice": "2025-05-18 19:55:08 +0000",
+      "golden_carrot": "2025-05-24 22:11:37 +0000",
       "carrot": "2025-05-21 19:34:05 +0000"
     },
     "done": false
@@ -1060,7 +1064,8 @@
       "minecraft:enderman": "2025-05-22 00:32:43 +0000",
       "minecraft:stray": "2025-05-22 02:56:54 +0000",
       "minecraft:zombie": "2025-05-21 05:03:49 +0000",
-      "minecraft:drowned": "2025-05-18 20:43:01 +0000"
+      "minecraft:drowned": "2025-05-18 20:43:01 +0000",
+      "minecraft:zombie_villager": "2025-05-24 19:28:29 +0000"
     },
     "done": false
   },
@@ -4506,6 +4511,8 @@
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_1": "2025-05-23 20:06:52 +0000",
+      "charm_collector_0": "2025-05-24 20:19:54 +0000",
+      "charm_collector_3": "2025-05-24 19:24:23 +0000",
       "charm_collector_2": "2025-05-24 19:02:38 +0000"
     },
     "done": false
@@ -5569,6 +5576,114 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-05-24 19:06:14 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
+    "criteria": {
+      "requirement": "2025-05-24 19:23:03 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-05-24 19:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-05-24 20:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-24 20:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-24 20:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-24 20:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-05-24 20:12:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-24 20:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-24 20:44:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-24 20:40:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-05-24 20:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-24 20:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-24 20:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-24 20:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-24 20:40:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-05-24 22:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-24 20:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-24 20:29:08 +0000"
     },
     "done": true
   },
