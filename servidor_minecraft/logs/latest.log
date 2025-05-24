@@ -5488,3 +5488,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24May2025 13:47:29.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [24May2025 13:47:30.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
 [24May2025 13:50:26.838] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/10089, l='ServerLevel[madafaka]', x=2165.50, y=52.00, z=3366.50]
+[24May2025 14:02:19.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[24May2025 14:02:20.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
