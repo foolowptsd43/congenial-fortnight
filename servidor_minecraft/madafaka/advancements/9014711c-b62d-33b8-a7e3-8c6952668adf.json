@@ -5468,6 +5468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-05-24 17:21:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-24 17:11:24 +0000"
@@ -5483,6 +5489,12 @@
   "dungeons_arise:find_mushroom_mines": {
     "criteria": {
       "location0": "2025-05-24 17:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-24 17:18:10 +0000"
     },
     "done": true
   },
