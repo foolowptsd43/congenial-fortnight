@@ -5733,3 +5733,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24May2025 16:41:14.269] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
 [24May2025 16:41:14.270] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
 [24May2025 16:41:14.270] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[24May2025 16:52:55.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Timed out
+[24May2025 16:52:55.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[24May2025 16:54:29.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.249.4.71:48085] logged in with entity id 88906 at (-921.5, 130.0, 2682.5)
+[24May2025 16:54:29.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[24May2025 16:55:03.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! 9.956513084195649,-0.7864609615303664,-2.857441130783627
+[24May2025 16:55:27.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Disconnected
+[24May2025 16:55:27.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
