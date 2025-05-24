@@ -76,6 +76,7 @@
     "criteria": {
       "minecraft:taiga": "2025-05-21 20:02:20 +0000",
       "minecraft:deep_ocean": "2025-05-21 20:23:44 +0000",
+      "minecraft:cherry_grove": "2025-05-24 15:54:58 +0000",
       "minecraft:birch_forest": "2025-05-21 20:05:48 +0000",
       "minecraft:windswept_hills": "2025-05-21 20:06:11 +0000",
       "minecraft:bamboo_jungle": "2025-05-18 19:54:49 +0000",
@@ -87,6 +88,7 @@
       "minecraft:lukewarm_ocean": "2025-05-18 21:27:32 +0000",
       "minecraft:stony_shore": "2025-05-18 19:48:57 +0000",
       "minecraft:forest": "2025-05-18 22:25:53 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-24 16:08:44 +0000",
       "minecraft:desert": "2025-05-21 20:26:55 +0000",
       "minecraft:jungle": "2025-05-18 19:54:38 +0000",
       "minecraft:ocean": "2025-05-21 20:23:15 +0000",
@@ -5317,6 +5319,18 @@
     },
     "done": true
   },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-05-24 16:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-24 15:59:12 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/combat/specialised_grip": {
     "criteria": {
       "has_iron_ingot": "2025-05-24 15:42:49 +0000"
@@ -5368,6 +5382,12 @@
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-24 15:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-24 15:59:12 +0000"
     },
     "done": true
   },
