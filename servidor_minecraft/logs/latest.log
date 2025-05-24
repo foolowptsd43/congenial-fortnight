@@ -5634,3 +5634,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24May2025 14:58:36.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> Serna estas?
 [24May2025 14:58:54.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Life turned out to be a comedy]
 [24May2025 15:01:46.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4389, y=112, z=2304} BlockPos{x=4389, y=111, z=2304}
+[24May2025 15:18:32.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[24May2025 15:18:32.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
