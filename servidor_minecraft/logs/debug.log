@@ -10095,3 +10095,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24May2025 13:23:59.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
 [24May2025 13:24:50.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
 [24May2025 13:26:36.147] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 8 in "main" inventory handler
+[24May2025 13:28:59.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[24May2025 13:28:59.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[24May2025 13:29:17.038] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[24May2025 13:29:57.650] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@43147b0f for service interface com.blamejared.clumps.platform.IEventHelper
+[24May2025 13:29:57.882] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@4ef2d26e for service interface com.blamejared.clumps.platform.IPlatformHelper
+[24May2025 13:33:59.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[24May2025 13:33:59.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[24May2025 13:34:02.670] [Server thread/DEBUG] [mixin/]: Mixing VibrationListenerMixin from mixins.deeperdarker.json into net.minecraft.world.level.gameevent.vibrations.VibrationSystem$Listener
+[24May2025 13:34:02.771] [Server thread/DEBUG] [mixin/]: Mixing VillagerGoalPackagesMixin from guardvillagers.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[24May2025 13:34:02.830] [Server thread/DEBUG] [mixin/]: Mixing InteractWithDoorMixin from doubledoors_forge.mixins.json into net.minecraft.world.entity.ai.behavior.InteractWithDoor
+[24May2025 13:38:59.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[24May2025 13:38:59.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
