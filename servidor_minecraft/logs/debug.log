@@ -12128,3 +12128,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24May2025 17:02:19.837] [Server thread/DEBUG] [Better Days/]: Sleep cycle complete on dimension: minecraft:overworld.
 [24May2025 17:03:59.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
 [24May2025 17:03:59.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[24May2025 17:08:59.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[24May2025 17:08:59.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[24May2025 17:13:59.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[24May2025 17:13:59.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
