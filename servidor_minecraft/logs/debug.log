@@ -11354,3 +11354,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25May2025 00:56:00.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
 [25May2025 00:56:00.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
 [25May2025 00:56:18.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> el huevo cuidado
+[25May2025 00:56:28.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> tu as lño del snifer
+[25May2025 00:56:30.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> si
+[25May2025 00:56:48.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> tu as lño del snifer
+[25May2025 00:56:57.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> yo me quedo a lo de la totuga
+[25May2025 00:56:57.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> si ya te ley
+[25May2025 00:57:04.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> llevato con el carry onç
+[25May2025 00:57:19.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> y busca tuto de como conseguir la planta pls
+[25May2025 00:57:31.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> solo que yo no tengo idea de como hacer que consiga flores
+[25May2025 00:59:08.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> y busca tuto de como conseguir la planta pls
+[25May2025 00:59:11.297] [Server thread/DEBUG] [Better Days/]: Sleep cycle complete on dimension: minecraft:overworld.
+[25May2025 01:01:00.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[25May2025 01:01:00.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[25May2025 01:01:29.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> invacion de pilallers en casa de Serna
+[25May2025 01:01:34.266] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/71881, l='ServerLevel[madafaka]', x=2318.02, y=62.48, z=3446.28] died, message: 'Villager was slain by Drowned'
+[25May2025 01:01:41.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> ni tengo aldeanos aca
+[25May2025 01:02:41.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> ee joputa
+[25May2025 01:02:45.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> te vi
+[25May2025 01:02:55.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> y yo tambien te vi
+[25May2025 01:03:05.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> yo te estaba ayudando
+[25May2025 01:03:22.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> cuando todos estavan ya muertos
+[25May2025 01:03:28.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> xd
+[25May2025 01:03:40.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> bueno ases lo del snifer o no
+[25May2025 01:03:54.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> estoy en eso
+[25May2025 01:04:23.460] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/71880, l='ServerLevel[madafaka]', x=2325.95, y=62.47, z=3434.18] died, message: 'Villager was slain by Drowned'
+[25May2025 01:05:18.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Timed out
+[25May2025 01:05:18.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[25May2025 01:06:00.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[25May2025 01:06:00.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[25May2025 01:06:47.240] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 39 messages to dispatch.
