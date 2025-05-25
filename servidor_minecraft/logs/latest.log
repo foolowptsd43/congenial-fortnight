@@ -5534,3 +5534,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25May2025 17:05:18.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
 [25May2025 17:05:57.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.249.4.71:46403] logged in with entity id 32396 at (4398.904123483413, 87.41999998688698, 2332.08997629726)
 [25May2025 17:05:57.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[25May2025 17:24:12.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[25May2025 17:24:13.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
