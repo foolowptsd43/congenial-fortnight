@@ -5730,6 +5730,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_1": "2025-05-25 02:32:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
       "has_torchflower": "2025-05-25 01:58:10 +0000"
