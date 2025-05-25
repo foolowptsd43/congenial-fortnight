@@ -7485,15 +7485,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-25 02:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
       "has_torchflower": "2025-05-25 01:59:27 +0000"
     },
     "done": true
   },
+  "born_in_chaos_v1:transmutalogy": {
+    "criteria": {
+      "transmutalogy_0": "2025-05-25 02:00:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/turtle_helmet": {
     "criteria": {
       "has_scute": "2025-05-25 01:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-25 02:09:31 +0000"
     },
     "done": true
   },
