@@ -5730,9 +5730,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-05-25 02:43:09 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
-      "trickor_treat_1": "2025-05-25 02:32:39 +0000"
+      "trickor_treat_0": "2025-05-25 02:35:37 +0000",
+      "trickor_treat_1": "2025-05-25 02:32:39 +0000",
+      "trickor_treat_2": "2025-05-25 02:35:38 +0000",
+      "trickor_treat_3": "2025-05-25 02:35:37 +0000",
+      "trickor_treat_4": "2025-05-25 02:35:37 +0000",
+      "trickor_treat_5": "2025-05-25 02:35:37 +0000",
+      "trickor_treat_6": "2025-05-25 02:35:37 +0000",
+      "trickor_treat_7": "2025-05-25 02:35:37 +0000"
     },
     "done": false
   },
