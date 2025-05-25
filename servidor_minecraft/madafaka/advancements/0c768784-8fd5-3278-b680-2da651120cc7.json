@@ -108,6 +108,7 @@
       "woodland": "2025-05-18 21:21:32 +0000",
       "shrubland": "2025-05-19 15:48:10 +0000",
       "rocky_shrubland": "2025-05-18 22:01:22 +0000",
+      "scrubland": "2025-05-24 23:53:02 +0000",
       "floodplain": "2025-05-22 20:43:10 +0000",
       "highland": "2025-05-19 13:53:11 +0000",
       "clover_patch": "2025-05-19 13:53:38 +0000",
@@ -128,6 +129,7 @@
       "prairie": "2025-05-19 15:49:25 +0000",
       "glowing_grotto": "2025-05-19 15:35:02 +0000",
       "origin_valley": "2025-05-19 15:08:20 +0000",
+      "tropics": "2025-05-25 00:25:09 +0000",
       "rainforest": "2025-05-18 20:09:04 +0000"
     },
     "done": false
@@ -5758,6 +5760,78 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-05-24 23:27:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-05-25 00:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-25 00:03:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-05-24 23:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-05-25 00:19:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-05-25 00:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-05-25 00:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2025-05-25 00:19:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-05-25 00:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-25 00:03:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-05-24 23:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-05-25 00:19:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-05-25 00:20:09 +0000"
     },
     "done": true
   },
