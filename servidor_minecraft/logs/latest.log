@@ -5827,3 +5827,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25May2025 04:13:52.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> no me despedi :C
 [25May2025 04:14:54.948] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/135983, l='ServerLevel[madafaka]', x=4597.58, y=237.00, z=2236.07] died, message: 'Armorer was burnt to a crisp whilst fighting Aqui_Si_Ban'
 [25May2025 04:16:21.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> Serna me podrias ayudar a reproducir aldeanos esque casi todos se mataron tirandoce al vacio
+[25May2025 04:30:33.410] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/144648, l='ServerLevel[madafaka]', x=4425.90, y=81.00, z=3376.68] died, message: 'Villager hit the ground too hard'
+[25May2025 04:42:39.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> hermano me salto el screamer del herobrine pero esta ves no tenia ojos
+[25May2025 04:42:55.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> que?
+[25May2025 04:43:12.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> zzzzzzzzzzzz
+[25May2025 04:43:27.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> real no tenia ojo los tenia negros
+[25May2025 04:44:15.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> Serna como era para que los aldeanos se reproduscan?
