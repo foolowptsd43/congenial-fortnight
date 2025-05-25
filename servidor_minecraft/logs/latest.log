@@ -5697,3 +5697,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25May2025 03:16:51.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> la que nesesitamos las 3 piesas
 [25May2025 03:16:53.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> no sabes de que jefe hablo?ç
 [25May2025 03:17:03.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> la del boss esqueleto?
+[25May2025 03:17:16.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> creo que si de ese abla
+[25May2025 03:17:18.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> tengo un torso
+[25May2025 03:17:23.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> ostia
+[25May2025 03:17:28.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> nos falta 2 piesas
+[25May2025 03:17:34.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> nosotros ya tenemos la isla
+[25May2025 03:17:43.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> a la vrg
+[25May2025 03:19:37.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4240, y=76, z=3426} BlockPos{x=4209, y=72, z=3441}
+[25May2025 03:19:41.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> y como se consiguen los trosos?
+[25May2025 03:20:13.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> en estructuras tu sabes que estas serca de uno por el sodino
+[25May2025 03:20:20.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> comiensas a escuchar vozes
+[25May2025 03:23:46.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2225, y=61, z=3201} BlockPos{x=2225, y=60, z=3201}
+[25May2025 03:26:53.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4247, y=72, z=3458} BlockPos{x=4249, y=74, z=3457}
