@@ -83,6 +83,7 @@
       "minecraft:savanna_plateau": "2025-05-20 21:19:04 +0000",
       "minecraft:beach": "2025-05-18 20:32:25 +0000",
       "minecraft:dark_forest": "2025-05-19 15:47:06 +0000",
+      "minecraft:mangrove_swamp": "2025-05-25 00:42:41 +0000",
       "minecraft:sparse_jungle": "2025-05-18 20:28:33 +0000",
       "minecraft:river": "2025-05-18 19:55:49 +0000",
       "minecraft:lukewarm_ocean": "2025-05-18 20:36:54 +0000",
@@ -110,6 +111,7 @@
       "rocky_shrubland": "2025-05-18 22:01:22 +0000",
       "scrubland": "2025-05-24 23:53:02 +0000",
       "floodplain": "2025-05-22 20:43:10 +0000",
+      "lush_savanna": "2025-05-25 00:33:01 +0000",
       "highland": "2025-05-19 13:53:11 +0000",
       "clover_patch": "2025-05-19 13:53:38 +0000",
       "mystic_grove": "2025-05-18 22:26:02 +0000",
@@ -117,7 +119,9 @@
       "maple_woods": "2025-05-19 13:57:32 +0000",
       "lavender_forest": "2025-05-19 14:19:04 +0000",
       "mediterranean_forest": "2025-05-19 13:43:59 +0000",
+      "dryland": "2025-05-25 00:31:06 +0000",
       "wasteland": "2025-05-19 15:12:22 +0000",
+      "lush_desert": "2025-05-25 00:31:20 +0000",
       "redwood_forest": "2025-05-19 13:52:42 +0000",
       "dune_beach": "2025-05-19 14:17:38 +0000",
       "volcano": "2025-05-18 20:06:39 +0000",
@@ -1000,7 +1004,8 @@
       "trickor_treat_2": "2025-05-18 21:45:47 +0000",
       "trickor_treat_3": "2025-05-18 21:46:51 +0000",
       "trickor_treat_4": "2025-05-18 21:45:51 +0000",
-      "trickor_treat_5": "2025-05-18 21:46:48 +0000"
+      "trickor_treat_5": "2025-05-18 21:46:48 +0000",
+      "trickor_treat_6": "2025-05-25 00:39:16 +0000"
     },
     "done": false
   },
@@ -5775,6 +5780,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_flower": "2025-05-25 00:37:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_shiraz_palace": {
+    "criteria": {
+      "location0": "2025-05-25 00:44:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-05-24 23:58:12 +0000"
@@ -5817,6 +5834,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-05-25 00:33:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-05-24 23:58:12 +0000"
@@ -5826,6 +5849,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2025-05-25 00:19:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-05-25 00:31:04 +0000"
     },
     "done": true
   },
