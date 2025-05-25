@@ -5990,15 +5990,81 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-05-25 15:08:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
       "has_stone_button": "2025-05-25 15:09:24 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/keypad_door_item": {
+  "securitycraft:recipes/building_blocks/reinforced_cracked_deepslate_bricks": {
     "criteria": {
-      "has_reinforced_door": "2025-05-25 15:08:28 +0000"
+      "has_item": "2025-05-25 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_wall_from_reinforced_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_bricks": "2025-05-25 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_slab_from_reinforced_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_bricks": "2025-05-25 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_slab": {
+    "criteria": {
+      "has_block": "2025-05-25 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_stairs_from_reinforced_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_bricks": "2025-05-25 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_stairs": {
+    "criteria": {
+      "has_block": "2025-05-25 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tiles_from_reinforced_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_bricks": "2025-05-25 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_stairs_from_reinforced_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_bricks": "2025-05-25 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_slab_from_reinforced_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_bricks": "2025-05-25 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_wall_from_reinforced_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_bricks": "2025-05-25 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_deepslate_brick_wall": {
+    "criteria": {
+      "has_block": "2025-05-25 15:27:38 +0000"
     },
     "done": true
   },
