@@ -5687,6 +5687,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/gongylidia": {
+    "criteria": {
+      "gongylidia": "2025-05-25 00:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-05-25 00:45:58 +0000"
@@ -5696,12 +5702,6 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-05-25 00:45:58 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/gongylidia": {
-    "criteria": {
-      "gongylidia": "2025-05-25 00:42:35 +0000"
     },
     "done": true
   },
