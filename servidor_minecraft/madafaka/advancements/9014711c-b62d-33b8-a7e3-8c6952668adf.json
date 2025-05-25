@@ -5803,6 +5803,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_polished_basalt_from_reinforced_basalt_stonecutting": {
+    "criteria": {
+      "has_reinforced_basalt": "2025-05-25 05:39:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-25 04:53:55 +0000"
@@ -5821,9 +5827,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_smooth_basalt": {
+    "criteria": {
+      "has_item": "2025-05-25 05:39:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_cyan_wool": "2025-05-25 04:33:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-05-25 05:35:48 +0000"
     },
     "done": true
   },
@@ -5845,15 +5863,45 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/reinforced_stone_brick_wall": {
+    "criteria": {
+      "has_block": "2025-05-25 05:35:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab": {
+    "criteria": {
+      "has_block": "2025-05-25 05:35:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-25 04:53:55 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cracked_stone_bricks": {
+    "criteria": {
+      "has_item": "2025-05-25 05:35:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-25 04:53:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-05-25 05:35:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_basalt": {
+    "criteria": {
+      "has_block": "2025-05-25 05:39:44 +0000"
     },
     "done": true
   },
@@ -5878,6 +5926,18 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-25 04:53:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-05-25 05:35:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-05-25 05:35:48 +0000"
     },
     "done": true
   },
@@ -5908,6 +5968,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-25 04:53:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs": {
+    "criteria": {
+      "has_block": "2025-05-25 05:35:48 +0000"
     },
     "done": true
   },
