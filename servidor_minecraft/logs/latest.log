@@ -5481,3 +5481,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25May2025 14:06:18.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.249.4.71:47997] logged in with entity id 78 at (4388.554955603139, 115.5625, 2300.4491716648313)
 [25May2025 14:06:18.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
 [25May2025 14:11:08.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! 10.070859768971786,-1.5,-0.5545553576998827
+[25May2025 14:51:22.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Disconnected
+[25May2025 14:51:22.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[25May2025 14:51:22.594] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25May2025 14:54:27.391] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.249.4.71:51763] logged in with entity id 7292 at (4421.138671047791, 111.0, 2300.8373135777224)
+[25May2025 14:54:27.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[25May2025 14:54:29.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2473ms or 49 ticks behind
