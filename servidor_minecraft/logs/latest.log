@@ -5614,3 +5614,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25May2025 18:56:21.904] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/62575, l='ServerLevel[madafaka]', x=3420.92, y=108.00, z=-1091.42] died, message: 'Librarian hit the ground too hard'
 [25May2025 19:03:05.904] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62513, l='ServerLevel[madafaka]', x=3465.33, y=102.00, z=-1087.02] died, message: 'Villager hit the ground too hard'
 [25May2025 19:03:37.053] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62424, l='ServerLevel[madafaka]', x=3459.44, y=105.00, z=-1086.77] died, message: 'Villager hit the ground too hard'
+[25May2025 19:21:01.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[25May2025 19:21:34.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> alo
+[25May2025 19:21:36.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> volvi
+[25May2025 19:21:41.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> estaba afk
+[25May2025 19:21:46.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> ok
+[25May2025 19:22:15.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> encontre una dugenon creo que es del mod del jefe de la isla
+[25May2025 19:22:27.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> enserio
+[25May2025 19:22:45.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> puedes mandar una foto?
+[25May2025 19:22:58.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> voy
+[25May2025 19:23:50.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> si creo que es del jefe de la isla
+[25May2025 19:24:10.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> es que se ve igual tal ves aca aya otro coso
