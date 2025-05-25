@@ -5730,5 +5730,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-05-25 01:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_any_sniffer_seed": {
+    "criteria": {
+      "torchflower": "2025-05-25 01:57:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

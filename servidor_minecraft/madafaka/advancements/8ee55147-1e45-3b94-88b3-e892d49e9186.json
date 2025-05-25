@@ -7485,6 +7485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-05-25 01:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/turtle_helmet": {
     "criteria": {
       "has_scute": "2025-05-25 01:25:45 +0000"
