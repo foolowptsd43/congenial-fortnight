@@ -5508,3 +5508,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25May2025 01:22:48.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> mira si se le puede dar algo para que cresca
 [25May2025 01:23:04.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> el cesped bone
 [25May2025 01:23:18.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> el que esta afuera de tu casa
+[25May2025 01:23:55.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Disconnected
+[25May2025 01:23:55.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[25May2025 01:24:13.499] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.181.238.192:55515] logged in with entity id 5973 at (2264.1217817607053, 69.0625, 3339.126768430552)
+[25May2025 01:24:13.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[25May2025 01:24:53.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set KairosArch's game mode to Creative Mode
+[25May2025 01:27:04.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set KairosArch's game mode to Survival Mode
+[25May2025 01:28:31.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Integer must not be less than 0, found -10000
+[25May2025 01:28:31.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...airosArch -10000<--[HERE]
+[25May2025 01:30:07.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> es que me lo olia
+[25May2025 01:30:10.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> por el sonido
+[25May2025 01:30:11.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> xd
+[25May2025 01:30:17.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> ahora me ves y ahora no
+[25May2025 01:30:23.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> JKJKJKJKJK
+[25May2025 01:31:01.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> soy un chingo de cosas flotando
+[25May2025 01:31:12.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> zzzzzzzz
+[25May2025 01:33:43.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by KairosArch
+[25May2025 01:33:55.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> no era para pasarse
