@@ -7522,9 +7522,21 @@
     },
     "done": true
   },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-05-25 18:47:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_weathered_cut_copper": {
     "criteria": {
       "has_block": "2025-05-25 18:18:57 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-05-25 18:48:20 +0000"
     },
     "done": true
   },
