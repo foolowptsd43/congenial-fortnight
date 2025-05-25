@@ -5487,3 +5487,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25May2025 14:54:27.391] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.249.4.71:51763] logged in with entity id 7292 at (4421.138671047791, 111.0, 2300.8373135777224)
 [25May2025 14:54:27.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
 [25May2025 14:54:29.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2473ms or 49 ticks behind
+[25May2025 15:02:58.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Timed out
+[25May2025 15:02:58.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[25May2025 15:03:36.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.249.4.71:59679] logged in with entity id 8731 at (4418.703734631267, 111.0, 2299.689195886199)
+[25May2025 15:03:36.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[25May2025 15:11:33.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! -9.406942824082762,4.716657115960004,-0.1870273766990067
