@@ -5779,3 +5779,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25May2025 03:57:31.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> AA VENI A LA ALDEA DEL INICIO
 [25May2025 03:57:36.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> ok yo voy a avanzar con mi casa
 [25May2025 03:58:23.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> CARRE?
+[25May2025 03:58:35.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> que quieres mostrarme?
+[25May2025 03:59:05.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> donde estas?
+[25May2025 03:59:25.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> baje
+[25May2025 03:59:40.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> en que direcion?
+[25May2025 03:59:44.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> VOY
+[25May2025 04:00:20.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> boo
+[25May2025 04:00:26.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> Xd
+[25May2025 04:00:32.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> PENSE QUE ERAN HEROBRINE
+[25May2025 04:01:00.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> Rayo me quiere yevar a lo oscuro
+[25May2025 04:01:06.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> sisisi jajaja
+[25May2025 04:01:28.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> admirad
+[25May2025 04:01:33.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> la cucaracha
+[25May2025 04:01:39.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> y con unha cucaracha y todo
+[25May2025 04:01:51.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> suena muy wap
+[25May2025 04:01:54.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> tremendo condumio, y la sorpresa tambien
+[25May2025 04:02:27.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> bno ya sabes donde queda... me voy
+[25May2025 04:02:51.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> toma eso
+[25May2025 04:03:06.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> gracias
+[25May2025 04:03:15.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> epaa
+[25May2025 04:03:24.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch moved too quickly! 39.93981642512688,63.5,-25.131830972750862
+[25May2025 04:03:35.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> le dejas oprimido
+[25May2025 04:03:56.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Disconnected
+[25May2025 04:03:56.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[25May2025 04:04:07.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> que le isiste
+[25May2025 04:04:17.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> mucho poder
+[25May2025 04:04:27.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> no tiene sangre arcana
+[25May2025 04:04:37.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> jkjkjkjk
+[25May2025 04:04:59.720] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.249.4.71:54119] logged in with entity id 129459 at (-302.911775591031, 14.0, 238.29486209121904)
+[25May2025 04:04:59.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[25May2025 04:05:08.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> mucho poder juan?
+[25May2025 04:05:40.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> donde toca serna se hayan bloques diferentes a los q deje >:c
+[25May2025 04:08:45.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Timed out
+[25May2025 04:08:45.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
