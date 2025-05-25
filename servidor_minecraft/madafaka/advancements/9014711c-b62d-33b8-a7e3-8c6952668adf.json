@@ -1063,6 +1063,7 @@
       "minecraft:cave_spider": "2025-05-21 05:27:20 +0000",
       "minecraft:enderman": "2025-05-22 00:32:43 +0000",
       "minecraft:stray": "2025-05-22 02:56:54 +0000",
+      "minecraft:vex": "2025-05-25 01:42:19 +0000",
       "minecraft:zombie": "2025-05-21 05:03:49 +0000",
       "minecraft:drowned": "2025-05-18 20:43:01 +0000",
       "minecraft:zombie_villager": "2025-05-24 19:28:29 +0000"
@@ -5714,6 +5715,18 @@
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-05-25 00:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-25 01:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-25 01:43:06 +0000"
     },
     "done": true
   },

@@ -5535,3 +5535,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25May2025 01:42:33.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> CARREEEE
 [25May2025 01:42:39.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> veni ya esta grande
 [25May2025 01:43:46.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> afk ya vengo
+[25May2025 01:46:18.311] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Disconnected
+[25May2025 01:46:18.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[25May2025 01:46:18.365] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25May2025 01:46:31.578] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.249.4.71:33725] logged in with entity id 25761 at (4197.5, 73.35489329934836, 3349.5)
+[25May2025 01:46:31.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
