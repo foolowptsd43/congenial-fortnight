@@ -7492,9 +7492,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_planks": {
+  "minecraft:recipes/combat/turtle_helmet": {
     "criteria": {
-      "has_log": "2025-05-25 02:09:31 +0000"
+      "has_scute": "2025-05-25 01:25:45 +0000"
     },
     "done": true
   },
@@ -7510,9 +7510,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/turtle_helmet": {
+  "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
-      "has_scute": "2025-05-25 01:25:45 +0000"
+      "has_log": "2025-05-25 02:09:31 +0000"
     },
     "done": true
   },
