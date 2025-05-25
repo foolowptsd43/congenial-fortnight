@@ -5661,3 +5661,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25May2025 19:44:25.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> unesqueloto que se le metio el chamuco
 [25May2025 19:44:41.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has reached the goal [Exorcism]
 [25May2025 19:44:44.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> JKJKJKJKJK un bicho rojo demonio=
+[25May2025 19:45:57.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Disconnected
+[25May2025 19:45:57.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[25May2025 19:46:34.408] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77b786e5[id=<null>,name=Aqui_Si_Ban,properties={},legacy=false] (/127.249.4.71:51719) lost connection: Disconnected
+[25May2025 19:46:59.421] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.249.4.71:39019] logged in with entity id 85846 at (4418.214230091663, 90.5, 2355.719005547893)
+[25May2025 19:46:59.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[25May2025 19:47:29.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Timed out
+[25May2025 19:47:29.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[25May2025 19:47:51.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[25May2025 19:51:43.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25May2025 19:51:43.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25May2025 19:51:43.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25May2025 19:51:43.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25May2025 19:51:43.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/minecraft:overworld
+[25May2025 19:51:44.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/minecraft:the_nether
+[25May2025 19:51:44.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/graveyard:past
+[25May2025 19:51:44.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/minecraft:the_end
+[25May2025 19:51:44.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/slugterra:the_slugterra
+[25May2025 19:51:44.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/deeperdarker:otherside
+[25May2025 19:51:44.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (madafaka): All chunks are saved
+[25May2025 19:51:44.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25May2025 19:51:44.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[25May2025 19:51:44.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25May2025 19:51:44.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_slugterra): All chunks are saved
+[25May2025 19:51:44.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[25May2025 19:51:44.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25May2025 19:51:44.535] [Server thread/INFO] [Framework/]: Unloading server configs...
+[25May2025 19:51:44.536] [Server thread/INFO] [Framework/]: Finished unloading server configs

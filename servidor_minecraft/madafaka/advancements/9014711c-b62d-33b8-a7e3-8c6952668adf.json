@@ -6200,15 +6200,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-05-25 18:10:24 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:horror_underthe_mantle": {
     "criteria": {
       "horror_underthe_mantle_0": "2025-05-25 18:28:11 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/banana": {
+  "born_in_chaos_v1:exorcism": {
     "criteria": {
-      "banana": "2025-05-25 18:10:24 +0000"
+      "exorcism_0": "2025-05-25 19:44:41 +0000"
     },
     "done": true
   },
