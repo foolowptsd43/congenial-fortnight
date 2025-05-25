@@ -5812,3 +5812,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25May2025 04:05:40.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> donde toca serna se hayan bloques diferentes a los q deje >:c
 [25May2025 04:08:45.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Timed out
 [25May2025 04:08:45.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[25May2025 04:09:05.482] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.249.4.71:36951] logged in with entity id 135917 at (4524.030751515017, 240.0, 2234.633517753759)
+[25May2025 04:09:05.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[25May2025 04:09:18.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> JURO Q NO LE HICE NADA
+[25May2025 04:09:24.990] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/135922, l='ServerLevel[madafaka]', x=2234.05, y=-256.00, z=3338.24] died, message: 'Villager was killed'
+[25May2025 04:09:33.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> que paso?
+[25May2025 04:10:07.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! 9.126040699670739,4.529447461648687,0.13142925944703165
+[25May2025 04:12:48.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> MUCHACHOS, YO ME VOY
+[25May2025 04:12:56.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> adios
+[25May2025 04:13:08.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> que tengas una bna noche... bayyy
+[25May2025 04:13:33.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> a y despues me acompañan a lutear la base gigante q envie al wasa
+[25May2025 04:13:35.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Disconnected
+[25May2025 04:13:35.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[25May2025 04:13:52.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> no me despedi :C
+[25May2025 04:14:54.948] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/135983, l='ServerLevel[madafaka]', x=4597.58, y=237.00, z=2236.07] died, message: 'Armorer was burnt to a crisp whilst fighting Aqui_Si_Ban'
+[25May2025 04:16:21.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aqui_Si_Ban> Serna me podrias ayudar a reproducir aldeanos esque casi todos se mataron tirandoce al vacio
