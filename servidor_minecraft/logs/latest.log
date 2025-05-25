@@ -5681,3 +5681,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25May2025 02:52:31.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> PUES YO MTENGO UNA ARMA
 [25May2025 02:52:40.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> Y SOY BRUJO
 [25May2025 02:52:47.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KairosArch> TENGO JUANETES TAMBIENÇ
+[25May2025 02:56:35.913] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/69848, l='ServerLevel[madafaka]', x=4548.55, y=74.00, z=2226.15] died, message: 'Cleric hit the ground too hard'
