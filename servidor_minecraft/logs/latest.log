@@ -5527,3 +5527,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25May2025 17:02:10.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Timed out
 [25May2025 17:02:10.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
 [25May2025 17:02:41.051] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a125f81[id=<null>,name=Aqui_Si_Ban,properties={},legacy=false] (/127.249.4.71:51129) lost connection: Disconnected
+[25May2025 17:04:48.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.249.4.71:51181] logged in with entity id 32013 at (4410.334527634017, 87.0, 2331.9266778172155)
+[25May2025 17:04:48.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[25May2025 17:05:07.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban moved too quickly! -8.206502769494364,0.7173593554766455,6.040206004146512
+[25May2025 17:05:18.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Timed out
+[25May2025 17:05:18.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[25May2025 17:05:57.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.249.4.71:46403] logged in with entity id 32396 at (4398.904123483413, 87.41999998688698, 2332.08997629726)
+[25May2025 17:05:57.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game

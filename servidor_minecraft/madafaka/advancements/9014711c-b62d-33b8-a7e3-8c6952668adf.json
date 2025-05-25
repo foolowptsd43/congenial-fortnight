@@ -6008,42 +6008,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-25 16:10:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-25 16:10:05 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:small_dungeon": {
-    "criteria": {
-      "in_better_monster_room": "2025-05-25 16:22:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-25 16:10:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-25 16:10:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-25 16:10:05 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_wall_from_reinforced_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_reinforced_deepslate_bricks": "2025-05-25 15:27:38 +0000"
@@ -6053,18 +6017,6 @@
   "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_slab_from_reinforced_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_reinforced_deepslate_bricks": "2025-05-25 15:27:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2025-05-25 16:06:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-25 16:10:05 +0000"
     },
     "done": true
   },
@@ -6086,6 +6038,78 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tiles_from_reinforced_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_bricks": "2025-05-25 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_stairs_from_reinforced_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_bricks": "2025-05-25 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_slab_from_reinforced_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_bricks": "2025-05-25 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_wall_from_reinforced_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_bricks": "2025-05-25 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_deepslate_brick_wall": {
+    "criteria": {
+      "has_block": "2025-05-25 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-05-25 16:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-25 16:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-25 16:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-25 16:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-25 16:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-25 16:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-25 16:10:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-25 16:10:05 +0000"
@@ -6095,12 +6119,6 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-25 16:10:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_glazed_terracotta": {
-    "criteria": {
-      "has_black_terracotta": "2025-05-25 16:10:12 +0000"
     },
     "done": true
   },
@@ -6122,24 +6140,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_tiles_from_reinforced_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_reinforced_deepslate_bricks": "2025-05-25 15:27:38 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_stairs_from_reinforced_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_reinforced_deepslate_bricks": "2025-05-25 15:27:38 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_slab_from_reinforced_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_reinforced_deepslate_bricks": "2025-05-25 15:27:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-25 16:10:05 +0000"
@@ -6152,29 +6152,11 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_wall_from_reinforced_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_reinforced_deepslate_bricks": "2025-05-25 15:27:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-25 16:10:05 +0000"
     },
     "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_deepslate_brick_wall": {
-    "criteria": {
-      "has_block": "2025-05-25 15:27:38 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_monster_room": "2025-05-25 16:22:27 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
@@ -6187,6 +6169,24 @@
       "has_terracotta": "2025-05-25 16:10:05 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-05-25 16:10:12 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-05-25 16:22:27 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-05-25 16:22:27 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
